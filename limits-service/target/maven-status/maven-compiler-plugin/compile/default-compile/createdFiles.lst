@@ -1,0 +1,5 @@
+com\in28minutes\microservices\limitsservice\Configuration.class
+com\in28minutes\microservices\limitsservice\LimitsConfigurationController.class
+com\in28minutes\microservices\limitsservice\bean\LimitConfiguration.class
+com\in28minutes\microservices\limitsservice\LimitsServiceApplication.class
+META-INF\spring-configuration-metadata.json
